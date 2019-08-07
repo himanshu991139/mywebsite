@@ -44,39 +44,48 @@
 
     <div class="container books-border" style="margin-top:5%;">
 
-        <h3 style="margin:30px;"><u>COMPUTER SCIENCE FIRST YEAR NOTES</u></h3>
+        <h3 style="margin:30px;"><u>Java Programming Books</u></h3>
 
         <div class="row">
             <div class="container">
                 <div class="col-md-3 coli" >
                     <div class="books-margin">
-                        <img src="images/hand-drawn-vector-set-physics-450w-367721150.jpg" class="book-img">
-                        <h5>Physics Notes</h5><br>
-                        <a href="physics1.html"><button type="button" class="btn btn-info"> click to Download</button></a>
+                        <img src="books/photo_2019-04-15_17-49-23.jpg">
+                        <h5 style="margin-bottom: 2px;"><b>Advance topic in java</b></h5>
+                        <p style="margin-bottom: 2px;">~Noel Kalicharan</p>
+                        <a href="Books/Advanced Topics in Java.pdf" download><button type="button" class="btn btn-info"> click to Download</button></a>
+
+                    </div>
+
+                </div>
+
+                <div class="col-md-3 coli">
+                    <div class="books-margin">
+                        <img src="Books/photo_2019-04-15_18-33-40.jpg" class="book-img">
+                        <h5 style="margin-bottom: 2px;"><b>Effective Java</b></h5>
+                        <p style="margin-bottom: 2px;">~Joshua Bloch</p>
+                        <a href="Books/Joshua Bloch - Effective Java (3rd) - 2018.pdf" download><button type="button" class="btn btn-info"> click to Download</button></a>
+
                     </div>
                 </div>
 
                 <div class="col-md-3 coli">
                     <div class="books-margin">
-                        <img src="images/-fs-Math-2018.xl.jpg" class="book-img">
-                        <h5>Maths-1 Notes</h5><br>
-                        <a href="math1.html"><button type="button" class="btn btn-info"> click to Download</button></a>
-                    </div>
-                </div>
+                        <img src="Books/photo_2019-04-15_18-57-01.jpg" class="book-img">
+                        <h5 style="margin-bottom: 2px;"><b>Core Java</b></h5>
+                        <p style="margin-bottom: 2px;">~Cay S.Horstmann</p>
+                        <a href="Books/Cay_S_Horstmann_Core_Java_Volume.pdf" download><button type="button" class="btn btn-info"> click to Download</button></a>
 
-                <div class="col-md-3 coli">
-                    <div class="books-margin">
-                        <img src="images/ec.jpg" class="book-img">
-                        <h5>Basic Electrical Engingeering Notes</h5>
-                        <br> <a href="electrical1.html"><button type="button" class="btn btn-info"> click to Download</button></a>
                     </div>
                 </div>
 
                 <div class="col-md-3">
                     <div class="books-margin">
-                        <img src="images/cpro.png" class="book-img">
-                        <h5>C Programming</h5><br>
-                        <a href="https://lecturenotes.in/notes/2-note-for-programming-in-c-c-by-verified-writer"><button type="button" class="btn btn-info"> click to Download</button></a>
+                        <img src="Books/photo_2019-04-15_19-02-16.jpg" class="book-img">
+                        <h5 style="margin-bottom: 2px;"><b>Mordern Java Recipes</b></h5>
+                        <p style="margin-bottom: 2px;">~Kousen</p>
+                        <a href="Books/Kousen K. - Modern Java Recipes - 2017.pdf" download><button type="button" class="btn btn-info"> click to Download</button></a>
+
                     </div>
                 </div>
             </div>
@@ -90,34 +99,41 @@
                 <div class="col-md-3 coli">
 
                     <div class="books-margin">
-                        <img src="images/cyber.jpg" class="book-img">
-                        <h5>Cyber Security</h5><br>
-                        <a href="cyber1.html"><button type="button" class="btn btn-info"> click to Download</button></a>
+                        <img src="Books/photo_2019-04-15_20-21-51.jpg" class="book-img">
+                        <h5 style="margin-bottom: 2px;"><b>Mordern C++ Programming</b></h5>
+                        <p style="margin-bottom: 2px;">~Jeff Langer</p>
+                        <a href="Books/Modern C++ Programming with Test-Driven Development.pdf" download><button type="button" class="btn btn-info"> click to Download</button></a>
+
                     </div>
                 </div>
 
                 <div class="col-md-3 coli">
                     <div class="books-margin">
-                        <img src="images/discrete.jpg" class="book-img">
-                        <h5>Discrete Mathematics Notes</h5>
-                        <br>
-                        <a href="discrete1.html"><button type="button" class="btn btn-info"> click to Download</button></a>
+                        <img src="Books/photo_2019-04-15_20-28-34.jpg" class="book-img">
+                        <h5 style="margin-bottom: 2px;"><b>C++ Algorithm and Datastructure</b></h5>
+                        <p style="margin-bottom: 2px;">~Hemant Jain</p>
+                        <a href="Books/@ITBooks4U_Hemant_Jain_Problem_Solving.pdf" download><button type="button" class="btn btn-info"> click to Download</button></a>
+
                     </div>
                 </div>
 
                 <div class="col-md-3 coli">
                     <div class="books-margin">
-                        <img src="images/coa.png" class="book-img">
-                        <h5>Computer Organisation and Architecture Notes</h5>
-                        <a href="coa1.html"><button type="button" class="btn btn-info" style="margin-top: 5px;"> click to Download</button></a>
+                        <img src="Books/photo_2019-04-15_20-43-36.jpg" class="book-img">
+                        <h5 style="margin-bottom: 2px;"><b>The C Programming Languange</b></h5>
+                        <p style="margin-bottom: 2px;">~Dennis Mirtchie</p>
+                        <a href="Books/@ITBooks4U_C.pdf" download><button type="button" class="btn btn-info"> click to Download</button></a>
+
                     </div>
                 </div>
 
                 <div class="col-md-3">
                     <div class="books-margin">
-                        <img src="images/DATASTUCTURE.png" class="book-img">
-                        <h5>Data Structure Notes</h5><br>
-                        <a href="datastructure1.html"><button type="button" class="btn btn-info"> click to Download</button></a>
+                        <img src="Books/photo_2019-04-15_20-36-48.jpg" class="book-img">
+                        <h5 style="margin-bottom: 2px;"><b>Mordern C Quick java Synatx</b></h5>
+                        <p style="margin-bottom: 2px;">~Mikal Olseen</p>
+                        <a href="Books/@ITBooks4U_C.epub" download><button type="button" class="btn btn-info"> click to Download</button></a>
+
                     </div>
                 </div>
             </div>
@@ -133,33 +149,42 @@
             <div class="container">
                 <div class="col-md-3 coli">
                     <div class="books-margin">
-                        <img src="images/softwareengg.jpg" class="book-img">
-                        <h5>Software Engginering Notes</h5><br><br>
-                        <a href="softwareengg.html"><button type="button" class="btn btn-info"> click to Download</button></a>
+                        <img src="Books/photo_2019-04-15_21-43-24.jpg" class="book-img">
+                        <h5 style="margin-bottom: 2px;"><b>Functional Python Programming</b></h5>
+                        <p style="margin-bottom: 2px;">~Steven Lott</p>
+                        <a href="Boooks/Advanced Topics in Java.pdf" download><button type="button" class="btn btn-info"> click to Download</button></a>
+
+
                     </div>
                 </div>
 
                 <div class="col-md-3 coli">
                     <div class="books-margin">
-                        <img src="images/automata.png" class="book-img">
-                        <h5>Theory of Finite Automata Notes</h5><br><br>
-                        <a href="automata1.html"><button type="button" class="btn btn-info"> click to Download</button></a>
+                        <img src="Books/photo_2019-04-15_21-47-33.jpg" class="book-img">
+                        <h5 style="margin-bottom: 2px;"><b>Python Algorithm</b></h5>
+                        <p style="margin-bottom: 2px;">~Kent D. Lee</p>
+                        <a href="Books/Data_Structures_and_Algorithms_with_Python @ITBooks4U.pdf" download><button type="button" class="btn btn-info"> click to Download</button></a>
+
                     </div>
                 </div>
 
                 <div class="col-md-3 coli">
                     <div class="books-margin">
-                        <img src="images/os.jpg" class="book-img">
-                        <h5>Operating System Notes</h5><br><br>
-                        <a href="operatingsystem1.html"><button type="button" class="btn btn-info"> click to Download</button></a>
+                        <img src="Books/photo_2019-04-15_21-51-31.jpg" class="book-img">
+                        <h5 style="margin-bottom: 2px;"><b>Python Machine Learning</b></h5>
+                        <p style="margin-bottom: 2px;">~Leonard Edission</p>
+                        <a href="Books/@ITBooks4U.epub" download><button type="button" class="btn btn-info"> click to Download</button></a>
+
                     </div>
                 </div>
 
                 <div class="col-md-3">
                     <div class="books-margin">
-                        <img src="images/digital.png" class="book-img">
-                        <h5>Digital Logic Design Notes</h5><br><br>
-                        <a href="https://lecturenotes.in/notes/19377-note-for-digital-logic-design-design-by-anna-superkings"><button type="button" class="btn btn-info"> click to Download</button></a>
+                        <img src="Books/photo_2019-04-15_21-55-39.jpg" class="book-img">
+                        <h5 style="margin-bottom: 2px;"><b>Artificial Learning with python</b></h5>
+                        <p style="margin-bottom: 2px;">~Prateek Joshi</p>
+                        <a href="Books/@ITBooks4U_AI.pdf" download><button type="button" class="btn btn-info"> click to Download</button></a>
+
                     </div>
                 </div>
             </div>
@@ -175,33 +200,41 @@
             <div class="container">
                 <div class="col-md-3 coli">
                     <div class="books-margin">
-                        <img src="images/spm.png" class="book-img">
-                        <h5>Software Project Management Notes</h5><br><br>
-                        <a href="spm1.html"><button type="button" class="btn btn-info"> click to Download</button></a>
+                        <img src="Books/photo_2019-04-15_22-07-21.jpg" class="book-img">
+                        <h5 style="margin-bottom: 2px;"><b>Pro PHP Programming</b></h5>
+                        <p style="margin-bottom: 2px;">~Peter Mcalyn</p>
+                        <a href="Books/@ITBooks4U Pro_PHP_Programming.pdf" download><button type="button" class="btn btn-info"> click to Download</button></a>
+
                     </div>
                 </div>
 
                 <div class="col-md-3 coli">
                     <div class="books-margin">
-                        <img src="images/RDBMS-in-terms-of-DBMS.png" class="book-img">
-                        <h5>Data Base Management</h5><br><br>
-                        <a href="dbms1.html"><button type="button" class="btn btn-info"> click to Download</button></a>
+                        <img src="Books/photo_2019-04-15_22-09-48.jpg" class="book-img">
+                        <h5 style="margin-bottom: 2px;"><b>PHP, MySQL, & JavaScrip</b></h5>
+                        <p style="margin-bottom: 2px;">~Richard Blum</p>
+                        <a href="Books/@BooksFree4U_php.pdf" download><button type="button" class="btn btn-info"> click to Download</button></a>
+
                     </div>
                 </div>
 
                 <div class="col-md-3 coli">
                     <div class="books-margin">
-                        <img src="images/daa.jpg" class="book-img">
-                        <h5>Design Analysis and Algoritm Notes</h5><br><br>
-                        <a href="daa1.html"><button type="button" class="btn btn-info"> click to Download</button></a>
+                        <img src="Books/photo_2019-04-15_22-13-25.jpg" class="book-img">
+                        <h5 style="margin-bottom: 2px;"><b>ASP.NET 3.5 Website Programming</b></h5>
+                        <p style="margin-bottom: 2px;">~Chris Love</p>
+                        <a href="Books/@ITBooks4U_Asp" download><button type="button" class="btn btn-info"> click to Download</button></a>
+
                     </div>
                 </div>
 
                 <div class="col-md-3">
                     <div class="books-margin">
-                        <img src="images/ppl.png" class="book-img">
-                        <h5>Principal Programming Languange Notes</h5><br>
-                        <a href="ppl1.html"><button type="button" class="btn btn-info" target="_blank" style="margin-top: 5px;"> click to Download</button></a>
+                        <img src="Books/photo_2019-04-15_22-18-27.jpg" class="book-img">
+                        <h5 style="margin-bottom: 2px;"><b>Beginning SOLID Principles</b></h5>
+                        <p style="margin-bottom: 2px;">~Bipin Joshi</p>
+                        <a href="Books/Beginning SOLID Principles.epub" download><button type="button" class="btn btn-info"> click to Download</button></a>
+
                     </div>
                 </div>
             </div>
@@ -218,33 +251,42 @@
             <div class="container">
                 <div class="col-md-3 coli">
                     <div class="books-margin">
-                        <img src="images/industrialsociology.jpg" class="book-img">
-                        <h5>Industrial Sociology Notes</h5><br><br>
-                        <a href="industialsociology1.html" download><button type="button" class="btn btn-info"> click to Download</button></a>
+                        <img src="Books/photo_2019-04-15_22-23-12.jpg" class="book-img">
+                        <h5 style="margin-bottom: 2px;"><b>JavaScript Data Structures</b></h5>
+                        <p style="margin-bottom: 2px;">~Sammie Bae</p>
+                        <a href="Books/@ITBooks4U_JS_DSA.epub" download><button type="button" class="btn btn-info"> click to Download</button></a>
+
                     </div>
                 </div>
 
                 <div class="col-md-3 coli">
                     <div class="books-margin">
-                        <img src="images/computernet.jpg" class="book-img">
-                        <h5>Computer Networks Notes</h5><br><br>
-                        <a href="cn1.html"><button type="button" class="btn btn-info"> click to Download</button></a>
+                        <img src="Books/photo_2019-04-15_22-27-04.jpg" class="book-img">
+                        <h5 style="margin-bottom: 2px;"><b>Advance Game by Javascript</b></h5>
+                        <p style="margin-bottom: 2px;">~REx ven Der</p>
+                        <a href="Books/Advanced_Game_Design @ITBooks4U.epub" download><button type="button" class="btn btn-info"> click to Download
+                            </button></a>
+
                     </div>
                 </div>
 
                 <div class="col-md-3 coli">
                     <div class="books-margin">
-                        <img src="images/datawarehouse.jpg" class="book-img">
-                        <h5>Data Warehouse and Data Mining Notes</h5><br>
-                        <a href="dwm1.html"><button type="button" class="btn btn-info" style="margin-top: 5px;"> click to Download</button></a>
+                        <img src="Books/photo_2019-04-15_22-29-33.jpg" class="book-img">
+                        <h5 style="margin-bottom: 2px;"><b>Learn to code Html</b></h5>
+                        <p style="margin-bottom: 2px;">~Sahy Howe</p>
+                        <a href="Books/@ITBooks4U Learn to code HTML _ CSS by Shay Howe.pdf" download><button type="button" class="btn btn-info"> click to Download</button></a>
+
                     </div>
                 </div>
 
                 <div class="col-md-3">
                     <div class="books-margin">
-                        <img src="images/compiler.jpg" class="book-img">
-                        <h5>Compiler Design Notes</h5><br><br>
-                        <a href="cd1.html"><button type="button" class="btn btn-info"> click to Download</button></a>
+                        <img src="Books/photo_2019-04-15_22-32-39.jpg" class="book-img">
+                        <h5 style="margin-bottom: 2px;"><b>The Intelligent Web</b></h5>
+                        <p style="margin-bottom: 2px;">~Gautam Sharoff</p>
+                        <a href="Books/photo_2019-04-15_22-32-39.jpg" download><button type="button" class="btn btn-info"> click to Download</button></a>
+
                     </div>
                 </div>
 
