@@ -162,7 +162,7 @@
                 <div class="modal-body">
                     <form method="POST" action="{{ route('register') }}">
                         @csrf
-                        <h3>Tutors Registration</h3>
+                        <h3>User Registration</h3>
                         <div class="wrapper">
 
 

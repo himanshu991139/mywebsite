@@ -12,11 +12,11 @@
                     <h1 class="wow fadeInUp animated" data-wow-delay="0.2s">START LEARNING WITH <span
                                 class="p-color"> BEST ONLINE SYSTEM</span>
                     </h1>
-                    <a href="/teachers" class="tran3s wow fadeInLeft animated banner-button"
-                       data-wow-delay="0.3s">Find Tutor</a>
-                    <a href="<?php echo e(route('register')); ?>"
-                       class="tran3s wow fadeInRight animated button-one banner-button hvr-trim" data-wow-delay="0.3s">Register
-                        as tutor</a>
+                    <a href="<?php echo e(route('register')); ?>" class="tran3s wow fadeInLeft animated banner-button"
+                       data-wow-delay="0.3s">Register</a>
+                    <a href="<?php echo e(route('login')); ?>"
+                       class="tran3s wow fadeInRight animated button-one banner-button hvr-trim" data-wow-delay="0.1s">Login
+                        </a>
                 </div> <!-- /.container -->
             </div> <!-- /.camera_caption -->
         </div>

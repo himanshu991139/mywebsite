@@ -56,7 +56,7 @@
                                         <div class="col-md-4">
                                             <div class="form-group">
                                                 <input type="number" name="experience" class="form-control" id="inputExperience"
-                                                       placeholder="Teaching Experience in Years" required="">
+                                                       placeholder="Age in Years" required="">
                                             </div>
                                         </div>
                                     </div>
@@ -71,101 +71,23 @@
                                         </div>
                                         <div class="col-md-4">
                                             <div class="form-group">
-                                                <label class="radio-inline">I am Available</label>
+                                                <label class="radio-inline">Are You</label>
                                                 <label class="radio-inline"><input type="radio" name="available" value="Morning"
-                                                                                   required="">Morning</label>
+                                                                                   required="">Student</label>
                                                 <label class="radio-inline"><input type="radio" name="available" value="Evening"
-                                                                                   required="">Evening</label>
+                                                                                   required="">Teacher</label>
                                             </div>
                                         </div>
                                         <div class="col-md-4">
                                             <div class="form-group">
                                                 <input type="text" name="travel" class="form-control" id="inputTravel"
-                                                       placeholder="How will you travel ?" required="">
+                                                       placeholder="Branch/Class/Profession" required="">
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="row">
-                                        <div class="col-md-4">
-                                            <div class="form-group">
-                                                <label>Medium of Instruction</label>
-                                                <label class="checkbox-inline"><input type="checkbox" name="medium[]" value="hindi">Hindi</label>
-                                                <label class="checkbox-inline"><input type="checkbox" name="medium[]" value="english">English</label>
 
-
-                                            </div>
-                                        </div>
-                                        <div class="col-md-4">
-                                            <div class="form-group">
-                                                <label>Board You Can Handle</label>
-                                                <label class="checkbox-inline"><input type="checkbox" name="board[]" value="CBSE">CBSE</label>
-                                                <label class="checkbox-inline"><input type="checkbox" name="board[]" value="ICSE">ICSE</label>
-
-                                            </div>
-                                        </div>
-                                        <div class="col-md-4">
-                                            <div class="form-group">
-                                                <label>Are you working as:</label>
-                                                <select name="working_as" class="form-control" required="">
-                                                    <option value="part-time">Part Time</option>
-                                                    <option value="full-time">Full Time</option>
-                                                </select>
-                                            </div>
-                                        </div>
-                                    </div>
                                     <hr>
-                                    <div class="row">
-                                        <div class="col-md-4">
-                                            <div class="form-group">
-                                                <label>Subject</label>
-                                                <div class="clearfix"></div>
-                                                <div style="max-height:200px; overflow:scroll; width:90%;">
-                                                    <div class="checkbox">
-                                                        <label><input type="checkbox" name="subjects[]" value="all subjects">All Subjects Upto
-                                                            5th</label>
-                                                    </div>
-                                                    <div class="checkbox">
-                                                        <label><input type="checkbox" name="subjects[]" value="all subject upto 8th">All Subjects Upto
-                                                            8th</label>
-                                                    </div>
 
-
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-4">
-                                            <div class="form-group">
-                                                <label>Classes</label>
-                                                <div class="clearfix"></div>
-                                                <div style="max-height:200px; overflow:scroll; width:90%;">
-
-                                                    <div class="checkbox">
-                                                        <label><input type="checkbox" name="classes[]" value="1-5">Ist - Vth</label>
-                                                    </div>
-
-                                                    <div class="checkbox">
-                                                        <label><input type="checkbox" name="classes[]" value="5-8">Ist - Vth</label>
-                                                    </div>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-4">
-                                            <div class="form-group">
-                                                <label>Are You a School Tutor ?</label>
-                                                <div class="clearfix"></div>
-                                                <div class="radio-inline">
-                                                    <label><input type="radio" name="school_tutor" value="1" required="">Yes</label>
-                                                </div>
-                                                <div class="radio-inline">
-                                                    <label><input type="radio" name="school_tutor" value="0" required="">No</label>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                    <hr>
                                     <div class="row">
 
                                         <div class="col-md-12">
@@ -181,18 +103,7 @@
 
 
                                     <hr>
-                                    <div class="row">
-                                        <div class="col-md-12">
 
-                                            <div class="form-group">
-                                                <label>Present Address</label>
-                                                <textarea rows="3" cols="50" name="present_address" class="form-control"
-                                                          placeholder="Enter Present Address" required=""></textarea>
-                                            </div>
-                                        </div>
-
-
-                                    </div>
 
                                     <div class="row">
                                         <div class="col-md-12">

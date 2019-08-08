@@ -12,13 +12,16 @@
             <li><a href="/account/status" class="tran3s">My Status <i class="fa fa-angle-right"
                                                              aria-hidden="true"></i></a></li>
 
-            <li><a href="/account/wallet" class="tran3s">My Wallet <i class="fa fa-angle-right"
+            <li><a href="/account/wallet" class="tran3s">My Uploads <i class="fa fa-angle-right"
                                                        aria-hidden="true"></i></a></li>
-            <li><a href="/account/payments" class="tran3s">My Payments<i class="fa fa-angle-right"
-                                                        aria-hidden="true"></i></a></li>
-            <li><a href="/account/my-jobs" class="tran3s">Your Jobs <i class="fa fa-angle-right"
-                                                           aria-hidden="true"></i></a></li>
+       <!--     <li><a href="/account/payments" class="tran3s">My Payments<i class="fa fa-angle-right"
 
+                                                        aria-hidden="true"></i></a></li>
+
+       -->
+       <!--     <li><a href="/account/my-jobs" class="tran3s">Your Jobs <i class="fa fa-angle-right"
+                                                           aria-hidden="true"></i></a></li>
+-->
         </ul>
     </div> <!-- /.shop-sidebar-list -->
 

@@ -33,17 +33,49 @@
                             <div class="col-md-12">
                                 <div class="col-md-6 col-sm-6 col-xs-6">
                                     <h5>
-                                        Status :
+                                        Name :
                                     </h5>
                                 </div>
                                 <div class="col-md-6 col-sm-6 col-xs-6">
                                     <h5 style="text-transform: capitalize">
-                                       {{$tutor_details->status}}
+                                        {{$details[0]->name}}
                                     </h5>
                                 </div>
 
 
                             </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <br>
+                                <div class="col-md-6 col-sm-6 col-xs-6">
+                                    <h5>
+                                        Email :
+                                    </h5>
+                                </div>
+                                <div class="col-md-6 col-sm-6 col-xs-6">
+                                    <h5>
+                                        {{$details[0]->email}}
+                                    </h5>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <br>
+                                <div class="col-md-6 col-sm-6 col-xs-6">
+                                    <h5>
+                                        Qualification :
+                                    </h5>
+                                </div>
+                                <div class="col-md-6 col-sm-6 col-xs-6">
+                                    <h5>
+                                        {{$details[1]->qualification}}
+                                    </h5>
+                                </div>
+                            </div>
+
                         </div>
                         <div class="row">
                             <div class="col-md-12">
@@ -67,16 +99,18 @@
                                 <br>
                                 <div class="col-md-6 col-sm-6 col-xs-6">
                                     <h5>
-                                        Wallet Balance :
+                                        Uploads :
                                     </h5>
                                 </div>
                                 <div class="col-md-6 col-sm-6 col-xs-6">
                                     <h5>
-                                        Rs {{$tutor_details->wallet}}
+                                         {{$tutor_details->wallet}}
                                     </h5>
                                 </div>
                             </div>
                         </div>
+
+
 
 
                         <div class="row">
@@ -84,29 +118,12 @@
                                 <br>
                                 <div class="col-md-6 col-sm-6 col-xs-6">
                                     <h5>
-                                        Job Applied :
+                                        Member Since :
                                     </h5>
                                 </div>
                                 <div class="col-md-6 col-sm-6 col-xs-6">
                                     <h5>
-                                        {{$tutor_details->jobsApplied}}
-                                    </h5>
-                                </div>
-                            </div>
-
-                        </div>
-
-                        <div class="row">
-                            <div class="col-md-12">
-                                <br>
-                                <div class="col-md-6 col-sm-6 col-xs-6">
-                                    <h5>
-                                        Job Done :
-                                    </h5>
-                                </div>
-                                <div class="col-md-6 col-sm-6 col-xs-6">
-                                    <h5>
-                                        {{$tutor_details->jobsDone}}
+                                        {{$details[0]->created_at}}
                                     </h5>
                                 </div>
                             </div>

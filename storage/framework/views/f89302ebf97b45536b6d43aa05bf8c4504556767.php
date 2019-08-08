@@ -213,12 +213,12 @@
                         <li class="dropdown-holder menu-list"><a href="#" class="tran3s"><?php echo e(Auth::user()->name); ?></a>
                             <ul class="sub-menu">
                                 <li><a href="/account/">Dashboard</a></li>
-                                <li><a href="/account/status">My Status</a></li>
-                                <li><a href="/account/profile">My Profile</a></li>
+                     <!--           <li><a href="/account/status">My Status</a></li>
+                         -->       <li><a href="/account/profile">My Profile</a></li>
                                 <li><a href="/account/subscription">Subscription</a></li>
-                                <li><a href="/account/wallet">Wallet</a></li>
-                                <li><a href="/account/payments">Payments</a></li>
-                                <li><a href="<?php echo e(route('logout')); ?>"> Logout</a></li>
+                                <li><a href="/account/wallet">My Uploads</a></li>
+                  <!--              <li><a href="/account/payments">Payments</a></li>
+                      -->          <li><a href="<?php echo e(route('logout')); ?>"> Logout</a></li>
 
                             </ul>
                             <?php endif; ?>

@@ -64,53 +64,29 @@
 
                                 </tr>
                                 <tr>
-                                    <td>Experience</td>
+                                    <td>Age</td>
                                     <td>     {{$details[1]->experience}} years</td>
 
                                 </tr>
-                                <tr>
-                                    <td>Available In</td>
-                                    <td>     {{$details[1]->available_in}}</td>
 
-                                </tr>
 
                                 <tr>
-                                    <td>Travel By</td>
+                                    <td>Branch/class/profession</td>
                                     <td>     {{$details[1]->travel_by}}</td>
 
                                 </tr>
 
                                 <tr>
-                                    <td> Educational Degree :</td>
+                                    <td> Educational Institute :</td>
                                     <td>     {{$details[1]->educational_degree}}</td>
 
                                 </tr>
 
-                                <tr>
-                                    <td>      Medium Of Instructions </td>
-                                    <td>     {{$details[1]->instruction_medium}}</td>
-
-                                </tr>
-
-                                <tr>
-                                    <td>  Your Subjects </td>
-                                    <td>     {{$details[1]->subjects}}</td>
-
-                                </tr>
 
 
-                                <tr>
-                                    <td>      Your Classes </td>
-                                    <td>     {{$details[1]->class}}</td>
-
-                                </tr>
 
 
-                                <tr>
-                                    <td>  Permanent Address </td>
-                                    <td>     {{$details[1]->permanent_address}}</td>
 
-                                </tr>
 
 
 

@@ -12,8 +12,13 @@ class TutorController extends Controller {
 	public function getDashboardDetails() {
 
 		$tutor_details = DB::table( 'tutors_details' )->where( 'tutor_id', Auth::user()->id )->first();
+        $personal_details = DB::table( 'users' )->where( 'id', Auth::user()->id )->first();
+        $details = array( $personal_details, $tutor_details );
+        $created = DB::table( 'users' )->select('created_at')->where( 'id', Auth::user()->id )->first();
 
-		return view( 'dashboard', compact( 'tutor_details' ) );
+
+
+        return view( 'dashboard', compact( 'tutor_details','details','created' ) );
 
 
 	}
