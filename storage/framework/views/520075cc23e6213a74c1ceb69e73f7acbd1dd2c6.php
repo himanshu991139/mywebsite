@@ -11,7 +11,7 @@
                 <h1 style="margin:0px;color: white;" ><b>Not Yet Satisfied with our Trend?</b></h1>
             </div>
             <div class="col-md-2">
-                <a href="contact page/prac.html">
+                <a href="contact-us">
 
 
                                <button type="button" class="btn btn-light" style="float:right;"><h1 style="color: black;">Provide feedback</h1></button>

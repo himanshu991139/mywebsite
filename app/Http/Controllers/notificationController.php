@@ -30,9 +30,9 @@ class notificationController extends Controller {
 			[ 'title' => 'Email', 'value' => $email ],
 			[ 'title' => 'Number', 'value' => $phone ]
 		];
-		$url       = 'https://hooks.slack.com/services/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';
+		$url       = 'https://hooks.slack.com/services/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';
 		$useragent = "Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)";
-		$payload   = 'payload={"channel": "#studentquery", "text": "' . $msg . '", "fields":' . json_encode( $fields ) . '}';
+		$payload   = 'payload={"channel": "#devops", "text": "' . $msg . '", "fields":' . json_encode( $fields ) . '}';
 		$ch        = curl_init();
 		curl_setopt( $ch, CURLOPT_USERAGENT, $useragent ); //set our user agent
 		curl_setopt( $ch, CURLOPT_POST, true ); //set how many paramaters to post
@@ -129,9 +129,9 @@ class notificationController extends Controller {
 			[ 'title' => 'Number', 'value' => $phone ],
 			[ 'title' => 'Message', 'value' => $message ]
 		];
-		$url       = 'https://hooks.slack.com/services/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';
+		$url       = 'https://hooks.slack.com/services/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';
 		$useragent = "Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)";
-		$payload   = 'payload={"channel": "#studentquery", "text": "' . $msg . '", "fields":' . json_encode( $fields ) . '}';
+		$payload   = 'payload={"channel": "#devops", "text": "' . $msg . '", "fields":' . json_encode( $fields ) . '}';
 		$ch        = curl_init();
 		curl_setopt( $ch, CURLOPT_USERAGENT, $useragent ); //set our user agent
 		curl_setopt( $ch, CURLOPT_POST, true ); //set how many paramaters to post

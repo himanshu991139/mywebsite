@@ -75,19 +75,19 @@
             <div class="col-md-6 col-sm-12 col-xs-12 wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
                 <div class="contactUs-address">
                     <h2>Contact Information</h2>
-                    <p>There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form,</p>
+                    <p>Providing advice puts a person in a merging state of mind, which stimulates a linking of one’s own identity with another party’s.</p>
                     <div class="single-address clearfix">
                         <div class="icon float-left"><i class="flaticon-placeholder"></i></div>
                         <div class="text float-left">
                             <h6>Address</h6>
-                            <span>San Francisco, CA 560 Bush St &amp; 20th Ave, Apt <br>5 San Francisco, 230909</span>
+                            <span>H.no-32,Block-C,vijay nagar,Ghaziabad,Uttar Pardesh</span>
                         </div>
                     </div> <!-- End of .single-address -->
                     <div class="single-address clearfix">
                         <div class="icon float-left"><i class="flaticon-envelope"></i></div>
                         <div class="text float-left">
                             <h6>Email</h6>
-                            <span>denis@getcraftwork.com</span>
+                            <span>himanshu991139@gmail.com</span>
                         </div>
                     </div> <!-- End of .single-address -->
                     <div class="single-address clearfix">

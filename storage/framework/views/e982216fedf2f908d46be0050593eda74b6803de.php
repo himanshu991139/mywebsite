@@ -601,8 +601,8 @@
     <div class="instructor-banner">
         <div class="opacity opacity-one">
             <div class="container">
-                <h4>Become An Instructor</h4>
-                <h2>Spread Your Skills </h2>
+                <h4>Become An Prime Member</h4>
+                <h2>Share Your Study Meaterial </h2>
                 <a href="/register" class="tran3s hvr-trim">Get Started Now</a>
             </div> <!-- /.container -->
         </div> <!-- /.opacity -->

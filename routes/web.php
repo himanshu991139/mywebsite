@@ -157,6 +157,7 @@ Route::group( [ 'prefix' => 'account', 'middleware' => 'auth' ], function () {
 		return view( 'tutor_registration' );
 	} );
 
+
 	Route::get( '/update-profile', function () {
 		return view( 'update-profile' );
 	} );
