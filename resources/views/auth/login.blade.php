@@ -44,10 +44,11 @@
         <div class="top-header">
             <div class="container">
                 <ul class="float-right left-content">
-                    <li><a href="#">+91 97184 84809</a></li>
-                    <li><a href="#">pacehometutors@gmail.com</a></li>
-                    <li><a href="#"> <i class="fa fa-user" aria-hidden="true"></i> Are you a Student ?</a></li>
-                    <li><a href="/login"> <i class="fa fa-sign-in" aria-hidden="true"></i> Are you a Tutor ?</a></li>
+                    <li><a href="#">+91 9910072742</a></li>
+                    <li><a href="#">himanshu991139@gmail.com</a></li>
+                    <li><a href="#">himanshu991139@gmail.com</a></li>
+                    <li><a href="#"> <i class="fa fa-user" aria-hidden="true"></i> Register</a></li>
+                    <li><a href="/login"> <i class="fa fa-sign-in" aria-hidden="true"></i> Login</a></li>
 
                 </ul>
 

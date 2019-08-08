@@ -376,8 +376,8 @@
 
                     <div class="col-md-7 col-xs-12">
                         <div class="text-wrapper">
-                            <h2>We Have More <br>Than <span class="p-color">60+Student</span> Currently Useing
-                                BrainJam</h2>
+                            <h2>We Have More <br>Than <span class="p-color">60+Student</span> Currently Using
+                                PACETUTORS</h2>
 
                             <ul class="clearfix">
                                 <li class="float-left">
@@ -451,7 +451,7 @@
     <div class="our-blog">
         <div class="container">
             <div class="theme-title">
-                <h2>How BrainJam Helps</h2>
+                <h2>How PACETUTORS Helps</h2>
 
             </div> <!-- /.theme-title -->
             <br>
@@ -460,7 +460,7 @@
                 There are variety of courses available choose those which you want to study that help students to assist them to complete their projects given in their schools and colleges, make them
                 strong in their weak fields.
             </p>
-            <p style="font-size: large">BrainJam provides you a comfortable enviroment to learn comfortable.The student can access lectures from various teachers, compare and refer to the one that suits the requirements.</p>
+            <p style="font-size: large">PACETUTOR provides you a comfortable enviroment to learn comfortable.The student can access lectures from various teachers, compare and refer to the one that suits the requirements.</p>
 
             <p style="font-size: large">There are different Methods to study you can choose those methods that are suitable for you</p>
 

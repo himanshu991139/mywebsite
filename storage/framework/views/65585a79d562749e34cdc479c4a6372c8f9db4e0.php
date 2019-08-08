@@ -75,7 +75,7 @@
             </div>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-md-3 col">
             <div class="books-margin">
                 <img src="images/cpro.png" class="book-img">
                 <h5>C Programming</h5><br>
@@ -116,7 +116,7 @@
             </div>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-md-3 col">
             <div class="books-margin">
                 <img src="images/DATASTUCTURE.png" class="book-img">
                 <h5>Data Structure Notes</h5><br>
@@ -158,7 +158,7 @@
             </div>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-md-3 col">
             <div class="books-margin">
                 <img src="images/digital.png" class="book-img">
                 <h5>Digital Logic Design Notes</h5><br><br>
@@ -200,7 +200,7 @@
             </div>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-md-3 col">
             <div class="books-margin">
                 <img src="images/ppl.png" class="book-img">
                 <h5>Principal Programming Languange Notes</h5><br>
@@ -243,7 +243,7 @@
             </div>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-md-3 col">
             <div class="books-margin">
                 <img src="images/compiler.jpg" class="book-img">
                 <h5>Compiler Design Notes</h5><br><br>

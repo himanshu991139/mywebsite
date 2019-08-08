@@ -77,7 +77,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-3">
+                <div class="col-md-3 col">
                     <div class="books-margin">
                         <img src="Books/photo_2019-04-15_19-02-16.jpg" class="book-img">
                         <h5 style="margin-bottom: 2px;"><b>Mordern Java Recipes</b></h5>
@@ -125,7 +125,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-3">
+                <div class="col-md-3 col">
                     <div class="books-margin">
                         <img src="Books/photo_2019-04-15_20-36-48.jpg" class="book-img">
                         <h5 style="margin-bottom: 2px;"><b>Mordern C Quick java Synatx</b></h5>
@@ -176,7 +176,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-3">
+                <div class="col-md-3 col">
                     <div class="books-margin">
                         <img src="Books/photo_2019-04-15_21-55-39.jpg" class="book-img">
                         <h5 style="margin-bottom: 2px;"><b>Artificial Learning with python</b></h5>
@@ -226,7 +226,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-3">
+                <div class="col-md-3 col">
                     <div class="books-margin">
                         <img src="Books/photo_2019-04-15_22-18-27.jpg" class="book-img">
                         <h5 style="margin-bottom: 2px;"><b>Beginning SOLID Principles</b></h5>
@@ -278,7 +278,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-3">
+                <div class="col-md-3 col">
                     <div class="books-margin">
                         <img src="Books/photo_2019-04-15_22-32-39.jpg" class="book-img">
                         <h5 style="margin-bottom: 2px;"><b>The Intelligent Web</b></h5>

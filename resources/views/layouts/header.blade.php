@@ -118,12 +118,12 @@
     <div class="top-header">
         <div class="container">
             <ul class="float-right left-content">
-                <li><a href="#">+91 97184 84809</a></li>
-                <li><a href="mailto:pacehometutors@gmail.com?Subject=Enquiry">pacehometutors@gmail.com</a></li>
+                <li><a href="#">+91 9910072742</a></li>
+                <li><a href="mailto:pacehometutors@gmail.com?Subject=Enquiry">himanshu991139@gmail.com</a></li>
                 @guest
-                    <li><a href="/student-enquiry"> <i class="fa fa-user" aria-hidden="true"></i> Are you a Student
-                            ?</a></li>
-                    <li><a href="/login"> <i class="fa fa-sign-in" aria-hidden="true"></i> Are you a Tutor ?</a></li>
+                    <li><a href="register"> <i class="fa fa-user" aria-hidden="true"></i> Regsiter
+                            </a></li>
+                    <li><a href="/login"> <i class="fa fa-sign-in" aria-hidden="true"></i> Login</a></li>
                 @endguest
             </ul>
 

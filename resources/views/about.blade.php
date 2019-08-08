@@ -39,7 +39,7 @@
 
             <div class="col-md-6">
                 <div class="section-header">
-                    <h2>Welcome to BrainJam</h2>
+                    <h2>Welcome to PACETUTORS</h2>
                     <p class="lead">It's time to spread out.</p>
                 </div>
 
