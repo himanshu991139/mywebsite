@@ -14,8 +14,8 @@ class ComposerStaticInita2a3ab2ecd9abb69ea4d6df7383e2ace
         '667aeda72477189d0494fecd327c3641' => __DIR__ . '/..' . '/symfony/var-dumper/Resources/functions/dump.php',
         '320cde22f66dd4f5d3fd621d3e88b98f' => __DIR__ . '/..' . '/symfony/polyfill-ctype/bootstrap.php',
         'def43f6c87e4f8dfd0c9e1b1bab14fe8' => __DIR__ . '/..' . '/symfony/polyfill-iconv/bootstrap.php',
-        '2c102faa651ef8ea5874edb585946bce' => __DIR__ . '/..' . '/swiftmailer/swiftmailer/lib/swift_required.php',
         '7b11c4dc42b3b3023073cb14e519683c' => __DIR__ . '/..' . '/ralouphie/getallheaders/src/getallheaders.php',
+        '2c102faa651ef8ea5874edb585946bce' => __DIR__ . '/..' . '/swiftmailer/swiftmailer/lib/swift_required.php',
         'c964ee0ededf28c96ebd9db5099ef910' => __DIR__ . '/..' . '/guzzlehttp/promises/src/functions_include.php',
         'a0edc8309cc5e1d60e3047b5df6b7052' => __DIR__ . '/..' . '/guzzlehttp/psr7/src/functions_include.php',
         '37a3dc5111fe8f707ab4c132ef1dbc62' => __DIR__ . '/..' . '/guzzlehttp/guzzle/src/functions_include.php',
@@ -95,6 +95,7 @@ class ComposerStaticInita2a3ab2ecd9abb69ea4d6df7383e2ace
         'M' => 
         array (
             'Monolog\\' => 8,
+            'Maknz\\Slack\\' => 12,
         ),
         'L' => 
         array (
@@ -303,6 +304,10 @@ class ComposerStaticInita2a3ab2ecd9abb69ea4d6df7383e2ace
         array (
             0 => __DIR__ . '/..' . '/monolog/monolog/src/Monolog',
         ),
+        'Maknz\\Slack\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/alek13/slack/src',
+        ),
         'League\\Flysystem\\' => 
         array (
             0 => __DIR__ . '/..' . '/league/flysystem/src',
@@ -408,6 +413,7 @@ class ComposerStaticInita2a3ab2ecd9abb69ea4d6df7383e2ace
 
     public static $classMap = array (
         'App\\Admin' => __DIR__ . '/../..' . '/app/Admin.php',
+        'App\\Console\\Commands\\TestNewUserNotification' => __DIR__ . '/../..' . '/app/Console/Commands/TestNewUserNotification.php',
         'App\\Console\\Kernel' => __DIR__ . '/../..' . '/app/Console/Kernel.php',
         'App\\Exceptions\\Handler' => __DIR__ . '/../..' . '/app/Exceptions/Handler.php',
         'App\\Http\\Controllers\\Admin\\Auth\\AdminLoginController' => __DIR__ . '/../..' . '/app/Http/Controllers/Admin/Auth/AdminLoginController.php',
@@ -2064,6 +2070,16 @@ class ComposerStaticInita2a3ab2ecd9abb69ea4d6df7383e2ace
         'League\\Flysystem\\Util\\ContentListingFormatter' => __DIR__ . '/..' . '/league/flysystem/src/Util/ContentListingFormatter.php',
         'League\\Flysystem\\Util\\MimeType' => __DIR__ . '/..' . '/league/flysystem/src/Util/MimeType.php',
         'League\\Flysystem\\Util\\StreamHasher' => __DIR__ . '/..' . '/league/flysystem/src/Util/StreamHasher.php',
+        'Maknz\\Slack\\ActionConfirmation' => __DIR__ . '/..' . '/alek13/slack/src/ActionConfirmation.php',
+        'Maknz\\Slack\\Attachment' => __DIR__ . '/..' . '/alek13/slack/src/Attachment.php',
+        'Maknz\\Slack\\AttachmentAction' => __DIR__ . '/..' . '/alek13/slack/src/AttachmentAction.php',
+        'Maknz\\Slack\\AttachmentField' => __DIR__ . '/..' . '/alek13/slack/src/AttachmentField.php',
+        'Maknz\\Slack\\Client' => __DIR__ . '/..' . '/alek13/slack/src/Client.php',
+        'Maknz\\Slack\\Facades\\Slack' => __DIR__ . '/..' . '/alek13/slack/src/Facades/Slack.php',
+        'Maknz\\Slack\\Message' => __DIR__ . '/..' . '/alek13/slack/src/Message.php',
+        'Maknz\\Slack\\SlackServiceProvider' => __DIR__ . '/..' . '/alek13/slack/src/SlackServiceProvider.php',
+        'Maknz\\Slack\\SlackServiceProviderLaravel4' => __DIR__ . '/..' . '/alek13/slack/src/SlackServiceProviderLaravel4.php',
+        'Maknz\\Slack\\SlackServiceProviderLaravel5' => __DIR__ . '/..' . '/alek13/slack/src/SlackServiceProviderLaravel5.php',
         'Mockery' => __DIR__ . '/..' . '/mockery/mockery/library/Mockery.php',
         'Mockery\\Adapter\\Phpunit\\Legacy\\TestListenerForV5' => __DIR__ . '/..' . '/mockery/mockery/library/Mockery/Adapter/Phpunit/Legacy/TestListenerForV5.php',
         'Mockery\\Adapter\\Phpunit\\Legacy\\TestListenerForV6' => __DIR__ . '/..' . '/mockery/mockery/library/Mockery/Adapter/Phpunit/Legacy/TestListenerForV6.php',
