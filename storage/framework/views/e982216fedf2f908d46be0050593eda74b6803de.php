@@ -8,7 +8,7 @@
         <div data-src="images/home/jumb.jpg">
             <div class="camera_caption">
                 <div class="container text-center">
-                    <h3 class="wow fadeInUp animated">Welcome To BrainJam</h3>
+                    <h3 class="wow fadeInUp animated">Welcome To PACETUTORS</h3>
                     <h1 class="wow fadeInUp animated" data-wow-delay="0.2s">START LEARNING WITH <span
                                 class="p-color"> BEST ONLINE SYSTEM</span>
                     </h1>
